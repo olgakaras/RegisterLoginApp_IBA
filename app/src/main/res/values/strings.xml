@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login App</string>
+
+    <string name="sign_in">Already have an account? Sign in</string>
+    <string name="account_sign_up">Don`t have an account? Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="forget_password">Forgot your password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password </string>
+    <string name="username">Username</string>
+    <string name="button_login">Login</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_en">English</string>
+    <string name="button_ru">Russian</string>
+    <string name="reset">Reset password</string>
+    <string name="select">Select language</string>
+
+    <string name="login_text">Successful Login</string>
+    <string name="register_text">Registration Completed Successfully</string>
+    <string name="reset_text">Please Activate Your Account</string>
+    <string name="error_email">Email is Incorrect</string>
+    <string name="error_password">Password must be at least 6 symbols</string>
+    <string name="error_field_required">Required field</string>
+    <string name="error_reset">Both password does not match</string>
+
+    <string name="authenticating">Authenticating...</string>
+
+    <string name="switcher">Enable swiping</string>
+</resources>
