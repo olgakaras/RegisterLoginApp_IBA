@@ -13,7 +13,7 @@
     <string name="register">Регистрация</string>
     <string name="confirm_password">Подтвердите пароль</string>
     <string name="username">Имя пользователя</string>
-    <string name="button_login">Логин</string>
+    <string name="button_login">Войти</string>
     <string name="button_sign_up">Зарегистрироваться</string>
     <string name="button_en">Английский</string>
     <string name="button_ru">Русский</string>
